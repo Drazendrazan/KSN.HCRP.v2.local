@@ -280,4 +280,35 @@ QBShared.Jobs = {
             },
         },
 	},
+	-- FedRP Addons
+	['fat'] = {
+		label = 'Firearm, Alcohol & Tobacco',
+    type = "oga",
+		defaultDuty = false,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Probationary Agent',
+                payment = 50
+            },
+						['1'] = {
+                name = 'Agent',
+                payment = 75
+            },
+						['2'] = {
+                name = 'Sr. Agent',
+                payment = 100
+            },
+						['3'] = {
+                name = 'Managing Director',
+                payment = 125
+            },
+						['4'] = {
+                name = 'Director of FAT',
+								isboss = true,
+                payment = 150
+            },
+        },
+	},
+
 }
