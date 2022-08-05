@@ -248,6 +248,8 @@ RegisterNetEvent('qb-banking:createBankCard', function(pin)
         xPlayer.Functions.AddItem('visa', 1, nil, info)
     elseif selectedCard == "mastercard" then
         xPlayer.Functions.AddItem('mastercard', 1, nil, info)
+    elseif selectedCard == "AMEX" then
+        xPlayer.Functions.AddItem('AMEX', 1, nil, info)
     end
 
     TriggerClientEvent('qb-banking:openBankScreen', src)

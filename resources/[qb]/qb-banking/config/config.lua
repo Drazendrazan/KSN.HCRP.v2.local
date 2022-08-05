@@ -1,6 +1,6 @@
 Config = {}
 
-Config.cardTypes = { "visa", "mastercard"}
+Config.cardTypes = { "visa", "mastercard", "AMEX"}
 
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true'
 Config.Zones = {
