@@ -53,6 +53,13 @@ ensure [standalone]
 ensure [voice]
 ensure [defaultmaps]
 
+#mlo
+ensure LegionCleanup
+
+#vehicles
+ensure ambo
+
+
 ## Permissions ##
 add_ace group.admin command allow # allow all commands
 #add_principal identifier.{{principalMasterIdentifier}} qbcore.god <- doesn't exist yet, change the generated one below to qbcore.god
