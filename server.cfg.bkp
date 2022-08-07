@@ -57,7 +57,7 @@ ensure [defaultmaps]
 ensure LegionCleanup
 
 #vehicles
-ensure ambo
+ensure speedoambo
 
 
 ## Permissions ##
