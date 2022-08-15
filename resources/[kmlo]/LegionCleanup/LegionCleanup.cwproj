@@ -1,0 +1,13 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>stream\legionbollard.ymap</Item>
+    <Item>dt1_rd1_strm_6.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>

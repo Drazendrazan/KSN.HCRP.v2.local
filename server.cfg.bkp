@@ -54,10 +54,11 @@ ensure [voice]
 ensure [defaultmaps]
 
 #mlo
-ensure LegionCleanup
+ensure [kmlo]
+ensure [gabz]
 
 #vehicles
-ensure speedoambo
+ensure [fed]
 
 
 ## Permissions ##
