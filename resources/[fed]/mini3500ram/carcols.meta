@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>
   <Lights>
   </Lights>
@@ -6,25 +6,25 @@
 	<Item>
       <id value="54367"/>
       <name>mini3500ram</name>
-      <timeMultiplier value="1.00000000"/>
+      <timeMultiplier value="0.52000000"/>
       <lightFalloffMax value="100.00000000"/>
       <lightFalloffExponent value="100.00000000"/>
       <lightInnerConeAngle value="2.29061000"/>
       <lightOuterConeAngle value="70.00000000"/>
       <lightOffset value="0.00000000"/>
       <textureName>VehicleLight_sirenlight</textureName>
-      <sequencerBpm value="600"/>
+      <sequencerBpm value="350"/>
       <leftHeadLight>
-        <sequencer value="2863311530"/>
+        <sequencer value="0"/>
       </leftHeadLight>
       <rightHeadLight>
-        <sequencer value="1431655765"/>
+        <sequencer value="0"/>
       </rightHeadLight>
       <leftTailLight>
-        <sequencer value="4042322160"/>
+        <sequencer value="0"/>
       </leftTailLight>
       <rightTailLight>
-        <sequencer value="252645135"/>
+        <sequencer value="0"/>
       </rightTailLight>
       <leftHeadLightMultiples value="1"/>
       <rightHeadLightMultiples value="1"/>
@@ -48,7 +48,7 @@
             <start value="0.00000000"/>
             <speed value="0.30000000"/>
             <sequencer value="2863311530"/>
-            <multiples value="2"/>
+            <multiples value="1"/>
             <direction value="true"/>
             <syncToBpm value="true"/>
           </flashiness>
@@ -773,6 +773,6 @@
           <castShadows value="false"/>
         </Item>
       </sirens>
-    </Item> 
+    </Item>
  </Sirens>
 </CVehicleModelInfoVarGlobal>
