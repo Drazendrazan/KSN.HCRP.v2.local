@@ -393,6 +393,10 @@ QBShared.Items = {
 	['labkey'] 			 			 = {['name'] = 'labkey', 						['label'] = 'Key', 						['weight'] = 500, 		['type'] = 'item', 		['image'] = 'labkey.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Key for a lock...?'},
 	['printerdocument']  = {['name'] = 'printerdocument', ['label'] = 'Document', 				 ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'printerdocument.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A nice document'},
 
+  -- Template
+	-- ['itemname']  = {['name'] = 'itemname', ['label'] = 'InGameLabel', ['weight'] = 500, ['type'] = 'item', ['image'] = 'itemimage.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'MouseOver Text'},
+	-- Template/
+
 	-- Addons
 	['chiefnote'] 			 = {['name'] = 'chiefnote', 	['label'] = 'LSMD Chief Note', ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'LSMD_Chief_DrugNotev1.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Note from LSMD Chief Katya approving drug sales by medics outside visual range of Pillbox'},
 
