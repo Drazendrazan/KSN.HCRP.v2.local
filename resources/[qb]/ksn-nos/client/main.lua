@@ -27,3 +27,9 @@ local function NitroLoop(lastVehicle)
     SetVehicleNitroPurgeEnabled(lastVehicle, false)
     TriggerServerEvent("nitro:__sync", false, false, true)
   end
+
+  if vehicle == 0 or driver ~= player then
+    return 0
+  end
+
+  local model = GetEntityModel(vehicle)
