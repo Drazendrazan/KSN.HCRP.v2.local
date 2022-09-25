@@ -423,6 +423,16 @@ Config.Products = {
             slot = 1,
         }
     },
+    ["staff"] = {
+        [1] = {
+            name = "weapon_snowball",
+            price = 1,
+            amount = 500,
+            info = {},
+            type = "item",
+            slot = 1,
+        }
+    },
 }
 
 Config.Locations = {
@@ -964,6 +974,19 @@ Config.Locations = {
         ["targetLabel"] = "Open Leisure Shop",
         ["products"] = Config.Products["leisureshop"],
         ["showblip"] = true,
+        ["blipsprite"] = 52,
+        ["blipcolor"] = 0
+    },
+    ["staffshop1"] = {
+        ["label"] = "Staff Shop",
+        ["coords"] = vector4(142.06, -622.97, 206.05, 249.1),
+        ["ped"] = 'mp_m_waremech_01',
+        ["scenario"] = "WORLD_HUMAN_VALET",
+        ["radius"] = 1.5,
+        ["targetIcon"] = "fas fa-wine-bottle",
+        ["targetLabel"] = "Open Staff Shop",
+        ["products"] = Config.Products["staffshop"],
+        ["showblip"] = false,
         ["blipsprite"] = 52,
         ["blipcolor"] = 0
     },
