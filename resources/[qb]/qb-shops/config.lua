@@ -979,7 +979,7 @@ Config.Locations = {
     },
     ["staffshop1"] = {
         ["label"] = "Staff Shop",
-        ["coords"] = vector4(142.06, -622.97, 206.05, 249.1),
+        ["coords"] = vector4(141.29, -622.68, 206.05, 73.06),
         ["ped"] = 'mp_m_waremech_01',
         ["scenario"] = "WORLD_HUMAN_VALET",
         ["radius"] = 1.5,
