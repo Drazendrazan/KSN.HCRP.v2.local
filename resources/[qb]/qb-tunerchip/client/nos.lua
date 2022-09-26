@@ -22,9 +22,9 @@ RegisterNetEvent('smallresource:client:LoadNitrous', function()
     if not NitrousActivated then
         if IsInVehicle and not IsThisModelABike(GetEntityModel(GetVehiclePedIsIn(ped))) then
             if GetPedInVehicleSeat(veh, -1) == ped then
-                QBCore.Functions.Progressbar("use_nos", "Connecting NOS...", 1000, false, true, {
-                    disableMovement = false,
-                    disableCarMovement = false,
+                QBCore.Functions.Progressbar("use_nos", "Connecting NOS...", 3500, false, true, {
+                    disableMovement = true,
+                    disableCarMovement = true,
                     disableMouse = false,
                     disableCombat = true,
                 }, {}, {}, {}, function() -- Done
@@ -140,7 +140,7 @@ p_flame_location = {
 
 ParticleDict = "veh_xs_vehicle_mods"
 ParticleFx = "veh_nitrous"
-ParticleSize = 1.4
+ParticleSize = 1.6
 
 CreateThread(function()
     while true do
