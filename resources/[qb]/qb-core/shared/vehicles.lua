@@ -4581,6 +4581,9 @@ QBShared.Vehicles = {
         ['hash'] = `weevil2`,
         ['shop'] = 'pdm',
     },
+
+		-- Addons
+		
 }
 
 for _, v in pairs(QBShared.Vehicles) do
