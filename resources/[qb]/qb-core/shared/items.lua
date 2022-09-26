@@ -398,6 +398,6 @@ QBShared.Items = {
 	-- Template/
 
 	-- Addons
-	['chiefnote'] 			 = {['name'] = 'chiefnote', 	['label'] = 'LSMD Chief Note', ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'LSMD_Chief_DrugNotev1.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Note from LSMD Chief Katya approving drug sales by medics outside visual range of Pillbox'},
-
+	['chiefnote'] 	= {['name'] = 'chiefnote', 	['label'] = 'LSMD Chief Note', ['weight'] = 500, 		['type'] = 'item', 		['image'] = 'LSMD_Chief_DrugNotev1.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Note from LSMD Chief Katya approving drug sales by medics outside visual range of Pillbox'},
+  ['nos'] 	  = {['name'] = 'nos', 	  ['label'] = 'NOSv2', 				 					 ['weight'] = 3500, 	['type'] = 'item', 		['image'] = 'nos.png', 				              ['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Speed up, gas pedal! :D'},
 }

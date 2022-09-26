@@ -5,6 +5,7 @@ TriggerEvent(
 		ESX = obj
 	end
 )
+local QBCore = exports['qb-core']:GetCoreObject()
 
 RegisterNetEvent("nitro:__sync")
 AddEventHandler(
