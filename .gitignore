@@ -3,3 +3,7 @@ cache/
 
 cache/files/qb-shops/resource.rpf
 cache/files/qb-shops/resource.rpf.db
+cache/files/qb-core/resource.rpf.db
+cache/files/qb-inventory/resource.rpf
+cache/files/qb-inventory/resource.rpf.db
+cache/files/qb-shops/resource.rpf.db
