@@ -2,26 +2,26 @@ local QBCore = exports['qb-core']:GetCoreObject()
 
 
 
-QBCore.Functions.CreateUseableItem("NOSv2", function(source)
+QBCore.Functions.CreateUseableItem("NOS", function(source)
     TriggerClientEvent('smallresource:client:LoadNitrous', source)
 end)
 
-RegisterNetEvent('NOSv2:server:LoadNitrous', function(Plate)
-    TriggerClientEvent('NOSv2:client:LoadNitrous', -1, Plate)
+RegisterNetEvent('NOS:server:LoadNitrous', function(Plate)
+    TriggerClientEvent('NOS:client:LoadNitrous', -1, Plate)
 end)
 
-RegisterNetEvent('NOSv2:server:SyncFlames', function(netId)
-    TriggerClientEvent('NOSv2:client:SyncFlames', -1, netId, source)
+RegisterNetEvent('NOS:server:SyncFlames', function(netId)
+    TriggerClientEvent('NOS:client:SyncFlames', -1, netId, source)
 end)
 
-RegisterNetEvent('NOSv2:server:UnloadNitrous', function(Plate)
-    TriggerClientEvent('NOSv2:client:UnloadNitrous', -1, Plate)
+RegisterNetEvent('NOS:server:UnloadNitrous', function(Plate)
+    TriggerClientEvent('NOS:client:UnloadNitrous', -1, Plate)
 end)
 
-RegisterNetEvent('NOSv2:server:UpdateNitroLevel', function(Plate, level)
-    TriggerClientEvent('NOSv2:client:UpdateNitroLevel', -1, Plate, level)
+RegisterNetEvent('NOS:server:UpdateNitroLevel', function(Plate, level)
+    TriggerClientEvent('NOS:client:UpdateNitroLevel', -1, Plate, level)
 end)
 
-RegisterNetEvent('NOSv2:server:StopSync', function(plate)
-    TriggerClientEvent('NOSv2:client:StopSync', -1, plate)
+RegisterNetEvent('NOS:server:StopSync', function(plate)
+    TriggerClientEvent('NOS:client:StopSync', -1, plate)
 end)
