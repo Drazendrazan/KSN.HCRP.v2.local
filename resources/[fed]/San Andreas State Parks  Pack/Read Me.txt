@@ -1,0 +1,85 @@
+San Andreas State Parks Pack made by: Ripple
+--------------------------------------------
+Installation Path:
+ mods/update/x64/dlcpacks/patchday22ng/dlc.rpf/x64/levels/vehicles.rpf
+Meta Path: YOU NEED THIS FOR LODS AND HANDLING TO WORK PROPERLY 
+mods/update/update.rpf/common/data/levels/gta5
+--------------------------------------------
+Credits: IF I MISS ANY OR CREDIT SOMETHING WRONG PLEASE MESSAGE ME
+2018 Dodge Charger: matt
+- Original vehicle model is 2015 Dodge Charger from Forza, edited into the 2018 Dodge Charger Pursuit by Matt with parts from FH3 and Gamemodels
+- Seats, center mirror, shifter and dash edits modeled and done by Kane104 - commissioned by Ranger Rick
+- Major help from EVI for digital dial information and help to get the dials working and his patience to help me
+- Rear bumper diffuser modeled by Patrol 31 Normal edits by Steinberg
+- AWD/Charger badge modeled by iansonwheels Converted to V by Matt
+- AWD Steelies/Hubcap modeled by iansonwheels Converted to V by Matt
+- Big thanks to Cj24 for beta testing the model and help with spec maps and normal maps and his overall knowledge of gta materials
+- Interior dial textures made by NeonLazer
+- Interior button textures made by Slendis
+- Rims from Gamemodels.ru Centercap edited by Matt
+- Dome Light modeled by Matt
+- A big thanks to Cj24, Kane104, EVI, Patrol 31, Steinberg , Desmond , NeOnLaZeR, Izick, Rekram, HDgamerzPC, and a big thanks to Ranger Rick who bought 3D parts so that i wouldn't give up on this project and bought me a Zmodeler license so that i can keep working on this project Thank you Rick.
+- Thank you to everyone who supported me and the project...
+- Another big thanks to iansonwheels who had the time to make the AWD steelies and AWD package stuff....
+
+2020 Silverado: Branson Duck 
+-purchased and converted by Branson Duck
+
+2019 F-250: Branson Duck
+-purchased and converted by Branson Duck
+
+Whelen Liberty: Dan 
+-Modeled and textured by Dan with the Van
+
+Whelen IONS: Dan 
+-Modeled and textured by Dan with the Van
+
+M2's: Five0
+Whelen M2 Super-LED Lighthead scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+main texture by five0
+groove and screw texture by neonlazer
+emis textures by Five0/OfficerFive0, based off of CJ24's
+a huge thank you to CJ24 for helping me create the textures
+commissioned by Dewey
+
+Whelen 400's: StraightGlitchez 
+-Converted to GTAV by StraightGlitchez 
+
+Whelen Avengers: Otaku
+-modeled and textured by 0taku
+
+Soundoff 3000 Lumen: Krul
+-modeled and textured by krul
+
+Winch: Rockstar
+
+Toolbox: Walters
+
+Custom Head Rack: RougeThunder
+
+Unity LED PAR46 Spotlight: Dan
+
+Setina Pack: Twurtleee
+
+M16: Walters
+
+Troy console, partition, window bars: Krul
+
+Cencom Carbide Cntroller: Krul
+
+Laird Antennas: BillyJ
+
+Motorola Radio: OfficerUnderwood
+
+Dashcam: Dan
+---------------------------------------------
+Known Issues: IF THERE ARE ANY ISSUES YOU FIND FEEL FREE TO MESSAGE ME 
+---------------------------------------------
+Disclaimer:
+DO NOT distribute this content without my permission! This includes liveries, models or the screenshots. 
+
+DO NOT use the vehicles in a clan or group without my express permission. THIS APPLIES TO FIVEM TOO.. Just ask me.
+Please do not upload this file or a part of it to any other website without permission from me
+I accept no responsibility for any damage caused to your PC, game, or anything else. 
+DO NOT rip, dismantle or change the vehicle in any way (except for texture files). Vehicles are LOCKED for a reason.
