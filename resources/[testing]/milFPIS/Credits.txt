@@ -1,0 +1,34 @@
+Vehicles:
+2016 Taurus:
+	2010 Ford Taurus SHO by Turn 10 Studios, modified into 2016 Ford Taurus Police Interceptor by OfficerUnderwood
+Rear bumper, headlamps, & dash by be fast, modified by OfficerUnderwood & Carper
+Front bumper by Ridgerunner, Grill by Vertex3D, modified by OfficerUnderwood
+Chassis parts by Ubisoft, Reverse lights & Gauges by OfficerUnderwood
+Rims by BxBugs123, Centercap by Carper
+
+2016 Explorer:
+- Ford explorer Base model purchased by Thehurk, GTAxB0SS, Requiem and Windows446
+- Poly Crunched, Textured, Converted by Thehurk. 
+- Interior purchased by TrentMU and FRGamer
+- Textures by Taylor Swift, Thehurk, & OfficerUnderwood
+- Heavily edited this piece of shit into a polished piece of shit by OfficerUnderwood
+- Rims by BxBugs123, Centercap by Carper
+- Interceptor Hood text by GTAxB0SS
+
+Interior:
+Center Console: Model and textures by bvmps
+APX8500: Radio and mic scatch made by 0taku Textuers made by 0taku
+Getac Camera: Modeled by Minibricks
+Partition: Partitions by Twurtleee
+Stalker: Stalker Dual DSR + Dual button display - HP Deskjet
+Toughbook: CF-51 by OfficerUnderwood
+Whelen PCCS9LW Control Unit: Model and textures by YesAviation
+
+Exterior:
+Antennas: Modeled and Textured by Raptor2000
+Lightbar: Whelen Justice Modeled, Coverted, and Textured by GTAxB0SS
+Whelen Mini Tion: Made by J4ames2020
+Whelen Avengers: Scratch made and texuterd by 0taku
+Spotlight: Spotlight Created By Turn10Studios; Converted And Edited By Shmurda
+
+All construction and Fort Benning Military Police Skins by bvmps
