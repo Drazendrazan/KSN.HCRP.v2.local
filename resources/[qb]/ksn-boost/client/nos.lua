@@ -51,3 +51,5 @@ RegisterNetEvent('smallresource:client:LoadNitrous', function() -- Use to load N
         QBCore.Functions.Notify('You Already Have NOS Active', 'error')
     end
 end)
+
+function ManageNOS
