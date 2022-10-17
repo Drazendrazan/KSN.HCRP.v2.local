@@ -125,7 +125,7 @@ function ActionStart()
                             local player = PlayerPedId()
                             if (DoesEntityExist(player) and not IsEntityDead(player)) then
                                 loadAnimDict( Action.animation.animDict)
-                                TaskPlayAnim(player, Action.animation.animDict, Action.animation.anim, 3.0, 3.0, -1, Action.animation.flags, 0, 0, 0, 0 )     
+                                TaskPlayAnim(player, Action.animation.animDict, Action.animation.anim, 3.0, 3.0, -1, Action.animation.flags, 0, 0, 0, 0 )
                             end
                         else
                             --TaskStartScenarioInPlace(PlayerPedId(), 'PROP_HUMAN_BUM_BIN', 0, true)
@@ -165,7 +165,7 @@ function ActionStart()
                     prop_net = netid
 
                     isProp = true
-                    
+
                     if not isPropTwo and Action.propTwo ~= nil and Action.propTwo.model ~= nil then
                         RequestModel(Action.propTwo.model)
 
