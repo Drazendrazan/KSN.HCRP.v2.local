@@ -1,5 +1,5 @@
-## ksn-boost
-NOS System for FiveM  :office:
+## ksn-idlejobs
+Idle Jobs for FiveM RP  :office:
 
 ## Dependencies
 None

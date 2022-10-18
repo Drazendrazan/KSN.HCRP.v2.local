@@ -1,19 +1,17 @@
 fx_version "cerulean"
 game "gta5"
 
-name "sw-nitro"
-description "The most advanced nitro system for FiveM"
-author "Deltanic - https://github.com/Deltanic/"
-url "https://github.com/swcfx/sw-nitro"
+name "ksn-fat"
+description "Newest 3 letter agency: Firearm, Alcohol & Taxidermy"
+author "Ksnarf- https://github.com/Ksnarf/"
+url "https://github.com/swcfx/ksn-doj"
 
-client_script "client/utils.lua"
-client_script "client/fuel.lua"
-client_script "client/ptfx.lua"
-client_script "client/boost.lua"
-client_script "client/purge.lua"
-client_script "client/trails.lua"
-client_script "client/main.lua"
+client_scripts {
 
-server_script "server/main.lua"
+}
 
-exports {"nosLevel"}
+server_scripts {
+
+}
+
+-- exports {"nosLevel"}
