@@ -328,5 +328,63 @@ QBShared.Jobs = {
             },
         },
 	},
+	['dojsec'] = {
+		label = 'Department of Justice Security',
+		type = 'dojsec',
+		defaultDuty = false,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Court Intern',
+                payment = 50
+            },
+						['1'] = {
+                name = 'Officer Cadet',
+                payment = 75
+            },
+						['2'] = {
+                name = 'Bailiff',
+                payment = 100
+            },
+						['3'] = {
+                name = 'Sr. Bailiff',
+                payment = 125
+            },
+						['4'] = {
+                name = 'Chief',
+								isboss = true,
+                payment = 150
+            },
+        },
+	},
+	['doj'] = {
+		label = 'Department of Justice',
+		type = 'doj',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Probational Judge',
+                payment = 50
+            },
+						['1'] = {
+                name = 'Judge',
+                payment = 75
+            },
+						['2'] = {
+                name = 'Sr. Judge',
+                payment = 100
+            },
+						['3'] = {
+                name = 'Associate Justice',
+                payment = 125
+            },
+						['4'] = {
+                name = 'Chief Justice',
+								isboss = true,
+                payment = 150
+            },
+        },
+	},
 
 }
