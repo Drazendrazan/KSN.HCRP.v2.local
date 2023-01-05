@@ -2,9 +2,9 @@ fx_version "cerulean"
 game "gta5"
 
 name "ksn-fat"
-description "Newest 3 letter agency: Firearm, Alcohol & Taxidermy"
+description "Truck Logistics Module for FiveM RP"
 author "Ksnarf- https://github.com/Ksnarf/"
-url "https://github.com/swcfx/ksn-doj"
+url "https://github.com/ksnarf/ksn-trucklogistics"
 
 client_scripts {
 
