@@ -386,5 +386,38 @@ QBShared.Jobs = {
             },
         },
 	},
+	['doc'] = {
+		label = 'Department of Corrections',
+		type = 'doc',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+						['0'] = {
+								name = 'Recruit',
+								payment = 50
+						},
+						['1'] = {
+								name = 'Probational Officer',
+								payment = 75
+						},
+						['2'] = {
+								name = 'Corrections Officer',
+								payment = 100
+						},
+						['3'] = {
+								name = 'Senior Corrections Officer',
+								payment = 125
+						},
+						['4'] = {
+								name = 'Asst. Warden',
+								isboss = true,
+								payment = 150
+						['5'] = {
+								name = 'Warden',
+								isboss = true,
+								payment = 150
+						},
+				},
+	},
 
 }
