@@ -1,13 +1,13 @@
 local vehicles = {}
 
-function SetNitroBoostScreenEffectsEnabled(enabled)
+function SetNitroBoostScreenEffectsEnabled(enabled) --sets animations on screens
 	if enabled then
-		AnimpostfxStop("RaceTurbo")
+		AnimpostfxStop("RaceTurbo") -- reset RaceTurbo to off
 		AnimpostfxPlay("RaceTurbo", 0, false)
-		SetTimecycleModifier("rply_motionblur")
-		ShakeGameplayCam("SKY_DIVING_SHAKE", 0.25)
+		SetTimecycleModifier("rply_motionblur") -- Enables MotionBlur on screen
+		ShakeGameplayCam("SKY_DIVING_SHAKE", 0.25) -- you can modify this for how much screen shake you see
 	else
-		StopGameplayCamShaking(true)
+		StopGameplayCamShaking(true) -- stop screen shake
 		SetTransitionTimecycleModifier("default", 0.35)
 	end
 end
@@ -16,12 +16,12 @@ function IsVehicleNitroBoostEnabled(vehicle)
 	return vehicles[vehicle] and vehicles[vehicle].enabled or false
 end
 
-function SetVehicleNitroBoostEnabled(vehicle, enabled)
+function SetVehicleNitroBoostEnabled(vehicle, enabled) -- Enable NitroBoost Function in vehicles
 	if IsVehicleNitroBoostEnabled(vehicle) == enabled then
 		return
 	end
 
-	if IsPedInVehicle(PlayerPedId(), vehicle) or not enabled then
+	if IsPedInVehicle(PlayerPedId(), vehicle) or not enabled then --ensure that vehicle has a player in it
 		SetNitroBoostScreenEffectsEnabled(enabled)
 	end
 
