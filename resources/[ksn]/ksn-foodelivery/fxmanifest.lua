@@ -1,10 +1,10 @@
 fx_version "cerulean"
 game "gta5"
 
-name "ksn-fat"
-description "Newest 3 letter agency: Firearm, Alcohol & Taxidermy"
+name "ksn-foodelivery"
+description "Allows player owned businesses to deliver food"
 author "Ksnarf- https://github.com/Ksnarf/"
-url "https://github.com/ksnarf/ksn-fat"
+url "https://github.com/ksnarf/ksn-foodelivery"
 
 client_scripts {
 
