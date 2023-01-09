@@ -26,4 +26,6 @@ function LoadAnimDict(dict)
 			Wait(1)
 		end
 	end
+
+	.
 end
