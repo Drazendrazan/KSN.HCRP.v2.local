@@ -3,7 +3,7 @@
   <Sirens>
 	<Item>
       <id value="214093634789"/>
-      <name>11cvpiw</name>
+      <name>11cvpiSASD</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="60.00000000"/>
       <lightFalloffExponent value="60.00000000"/>
@@ -6233,99 +6233,6 @@
 		</Item>
 		<Item>
 			<wheelName>wheel_rcvpi_06</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_fpiu_01</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_01</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_02</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_03</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_04</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_05</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_01</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_02</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_03</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_04</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_tahoe_05</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-	</Item>
-    <Item> <!-- VWT_OFFROAD -->
-		<Item>
-			<wheelName>wheel_f150_01</wheelName>
-			<wheelVariation />
-			<modShopLabel>Steel Wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>wheel_f150_02</wheelName>
 			<wheelVariation />
 			<modShopLabel>Steel Wheel</modShopLabel>
 			<rimRadius value="0.348500"/>
